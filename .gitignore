@@ -27,6 +27,8 @@ yarn-error.log*
 # local env files
 .env*.local
 .env
+nextleap-agib-1.env.local
+nextleap-*.env.local
 
 # vercel
 .vercel
